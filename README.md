@@ -16,5 +16,14 @@ Research project on **AI Governance & Security**: operationalizing governance fr
 - ☁️ Provides **environment setup scripts** for VMware and deployment workflows for RL models.
 
 ---
-
 ## 📂 Project Structure
+
+
+## ⚙️ Setup
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/<your-username>/ai_governance_security_research.git
+
+   cd Environment_setup_vmware-configs_scripts
+
+   pip install -r requirements.txt
