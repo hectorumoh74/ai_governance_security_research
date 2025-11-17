@@ -1,0 +1,6 @@
+# Research Milestones
+- [x] Phase 1: Virtual environment setup
+- [ ] Phase 2: Governance matrix design
+- [ ] Phase 3: Adversarial testing cycles
+- [ ] Phase 4: Risk mapping
+- [ ] Phase 5: Final reporting
