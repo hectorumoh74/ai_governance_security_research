@@ -24,11 +24,13 @@ Research project on **AI Governance & Security**: operationalizing governance fr
    ```bash
    git clone https://github.com/<your-username>/ai_governance_security_research.git
 
-
-   ----
-
    cd Environment_setup_vmware-configs_scripts
 
-   -----
-
    pip install -r requirements.txt
+
+   ----
+   ## 🧪 Testing
+Run adversarial tests using the provided scripts:
+
+```bash
+python testing_garak-adversarial-tests_deepeval-benchmarks/run_tests.py
