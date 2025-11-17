@@ -46,3 +46,13 @@ Track the key phases of this project:
 - **Phase 5**: Final deliverables & vulnerability matrix 📌
 
 For detailed timeline, see `milestones.md`.
+
+## 📫 Contact
+- 🌐 Personal Website: cominsoon  (https://edidiongumoh.io)
+- 💼 LinkedIn Profile | linkedin.com/in/edidiong-hector-umoh 
+- 🐦 Twitter or X Handle (e.g., https://twitter.com/yourhandle)
+- 📧 your- | hectorumoh@gmail.com
+
+
+## 📜 License
+This project is licensed under the terms of the LICENSE file.
