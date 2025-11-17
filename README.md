@@ -34,3 +34,15 @@ Run adversarial tests using the provided scripts:
 
 ```bash
 python testing_garak-adversarial-tests_deepeval-benchmarks/run_tests.py
+
+
+## 📅 Milestones
+Track the key phases of this project:
+
+- **Phase 1**: Risk mapping & governance framework analysis ✅
+- **Phase 2**: Environment setup & VMware configuration ✅
+- **Phase 3**: Adversarial testing with Garak & DeepEval 🔄
+- **Phase 4**: RL model deployment scripts 🔄
+- **Phase 5**: Final deliverables & vulnerability matrix 📌
+
+For detailed timeline, see `milestones.md`.
