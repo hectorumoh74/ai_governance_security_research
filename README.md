@@ -1,3 +1,7 @@
+![License](https://img.shieldslicense/edidionghectorumoh/ai_governance_security_research
+![Python](https://img.shields.io/badge10%2B-blue
+https://img.shields.io/badge/build-passing-brightgreen
+
 # 🔐 AI Governance & Security Research
 
 ## 📌 Overview
